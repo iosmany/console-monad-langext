@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/LangExtMonadCsharp/.vs/LangExtMonadCsharp
+/src/LangExtMonadCsharp/LangExtMonadCsharp/bin/Debug/net9.0
+/src/LangExtMonadCsharp/LangExtMonadCsharp/obj
