@@ -1,0 +1,1 @@
+This repository demonstrates how to use the LanguageExt library for functional programming in C#. LanguageExt introduces immutable data structures and functional programming patterns, such as monads, that help make your code more expressive, concise, and robust. Below are examples of key constructs and how to use them.
